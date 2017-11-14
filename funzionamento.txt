@@ -1,5 +1,4 @@
-Dato un insieme di siti (circa 100) deve esserci un backup di ungi sito su Google Drive.
-In particolare il programma deve prendere in ftp tutto il contenuto, metterlo su una cartella temporanea in locale, poi zipparlo con il nome: nomeSito_annoMeseAnno.zip e spedirlo su Google Drive.
+Dato un insieme di siti deve esserci un backup di ungi sito su una pennetta esterna a rasberry.
+In particolare il programma deve prendere in ftp tutto il contenuto, metterlo su una cartella temporanea in locale, poi zipparlo con il nome: nomeSito_annoMeseAnno.zip e spedirlo sulla pennetta.
 
-Al posto che Google Drive si puo utilizzare il server che ti ho mandato per messaggio ovviamente sempre in ftp va fatta la connessione.
 
