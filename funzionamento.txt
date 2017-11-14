@@ -2,3 +2,4 @@ Dato un insieme di siti deve esserci un backup di ungi sito su una pennetta este
 In particolare il programma deve prendere in ftp tutto il contenuto, metterlo su una cartella temporanea in locale, poi zipparlo con il nome: nomeSito_annoMeseAnno.zip e spedirlo sulla pennetta.
 
 
+https://www.maketecheasier.com/securing-apache-ubuntu/
